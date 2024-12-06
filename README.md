@@ -14,7 +14,7 @@ This website serves as a portfolio to highlight my work and the technologies I a
 
 ## Visit
 
-You can view my website at: [https://saicoder108.github.io/PersonalWeb/]([url](https://saicoder108.github.io/PersonalWeb/))
+You can view my website at: [https://saicoder108.github.io/PersonalWeb/](https://saicoder108.github.io/PersonalWeb/)
 
 ## Author
 
